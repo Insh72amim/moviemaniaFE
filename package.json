@@ -2,7 +2,7 @@
     "name": "moviemania",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://insh72amim.github.io/moviemaniaFE/",
+    "homepage": "https://insh72amim.github.io/moviemaniaFE",
     "dependencies": {
         "@emotion/react": "^11.10.5",
         "@emotion/styled": "^11.10.5",
