@@ -49,7 +49,7 @@ function App() {
                 <Route path="/" element={<Layout />}>
                     <Route path="/" element={<Home movies={movies} />}></Route>
                     <Route
-                        path="/moviemania"
+                        path="/moviemaniaFE"
                         element={<Home movies={movies} />}
                     ></Route>
                     <Route
